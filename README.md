@@ -3,7 +3,10 @@ Students
 
 Students app for iPhone
 
-Developer Credits
+Team Members
 =============
-Name : Shahlan Kardi
-Email: <wowlan@gmail.com>
+1.Shahlan Kardi
+2.Shikeen
+3.Fidwan
+4.Bell
+5.Sumardi
